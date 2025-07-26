@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RPSebb
-- 👀 I’m interested in 
-- 🌱 I’m currently learning webgpu & wgsl
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in computer
+- 🌱 I’m currently learning webgl2
 - :e-mail: sebastien.ranganayaguy@live.fr
 
 <!---
